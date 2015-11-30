@@ -1,19 +1,17 @@
 ### Material and energy balances in biochemical systems
 
-___
+__Review__: The basic building block of any biomolecular process is a cell.
+Cells transformation nutrients e.g., sugar into valuable products such as proteins or organic molecules.
+Cells differ in their size, shape, behavior and complexity. However, they all share the common thread of requiring nutrients to survive, and many of the
+processes to utilize nutrients are conserved from the simplest bacteria to the most complex cells in our bodies.
 
-##### Introduction
-
-As we have seen, the basic building block of any biomolecular process is a cell. Cells are biological agents which process nutrients into valuable products,
-waste products and more cells. The chemical transformation of nutrients e.g., sugar to valuable products such as proteins or organic molecules uses a vast network of coupled chemical reactions collectively called metabolic~pathways. Cells differ in their size, shape, behavior and complexity. However, they all share the common thread of requiring nutrients to survive, and many of the
-pathways that process nutrients are conserved from the simplest bacteria to the most complex cells in our bodies. We grow cells and use them to make products of interest in special chemical reactors called bioreactors. To understand how cells function in bioreactors, and ultimately how to manipulate them for societal benefit, we must first understand how to apply engineering principles such as conservation of mass and energy to biological systems. Toward this goal, we'll start by reviewing basic material balance concepts and use these concepts to write balance equations around extracellular nutrients (outside of the cell). Second, we'll begin to think about how cells process extracellular nutrients, and how to write material balances around cells in bioreactors.
-
-__Objectives__: In this chapter we will introduce:
+__Objectives__: We grow cells in special chemical reactors called bioreactors. To understand how cells grow (and make products) in bioreactors,
+we must first understand how to apply engineering principles such as conservation of mass and energy to biological systems.
+In this chapter we will introduce:
 
 1. Total macroscopic mass and mole balance equations
 2. Species mass and mole balances equations
 3. Energy balance governing the state of liquid in a bioreactor
-___
 
 #### Total macroscopic mass and mole balance equations.
 
