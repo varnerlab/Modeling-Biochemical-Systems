@@ -1,4 +1,4 @@
-#### Enzymes and models for the kinetics of enzyme catalyzed reactions
+#### Models for enzyme catalyzed biochemical reactions
 
 __Review__: Enzymes are proteins that catalyze the chemical reactions occurring inside simple and complex cells.
 Enzymes are responsible for processing starting materials such as sugars into products of interest, waste products and eventually more cells.
