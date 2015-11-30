@@ -1,1 +1,1 @@
-### Modeling Biochemical Systems
+### Modeling of Biochemical Systems
