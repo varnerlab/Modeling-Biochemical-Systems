@@ -17,13 +17,8 @@ The total macroscopic material balance around the control volume contains four t
 $$
 \sum_{s~=~1}^{\mathcal{S}}v_{s}\dot{m}_{s} + \dot{m}_{gen} = \dot{m}_{acc}
 $$
-where the summation term:
 
-$$
-\sum_{s~=~1}^{\mathcal{S}}v_{s}\dot{m}_{s}
-$$
-
-describes the net rate of material flow into and from the control volume. The term $$v_{s}$$ is a __direction parameter__.
+where the summation term describes the net rate of material flow into and from the control volume. The term $$v_{s}$$ is a __direction parameter__.
 We'll use the convention that streams *entering* the control volume have positive direction parameters ($$v_{s} = 1$$),
 while streams exiting the control volume have negative direction parameters,
 where $$\dot{m}_{s}$$ denotes the mass flow rate of stream s (typical units of kg/hr) and $$\mathcal{S}$$ denotes the total number of streams.
