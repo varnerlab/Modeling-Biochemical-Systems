@@ -135,7 +135,8 @@ The direct computation of the inverse for square systems is \emph{very} computat
 other techniques, such as Gauss Elimination, Gauss Jordan Elimination or iterative techniques are used to calculate the flux
 vector $$\mathbf{\vartheta_{u}}$$.
 
-__Example__: [Estimate the flux through a simple metabolic network for different measurement choices using MFA](./SimpleMFAExample.md).
+##### MFA Examples:
+* [Estimate the flux through a simple metabolic network for different measurement choices using MFA](./SimpleMFAExample.md).
 
 __Flux Balance Analysis (FBA)__: Flux balance analysis (FBA) is another strategy to estimate intracellular fluxes.
 FBA was developed by Palsson and coworkers to estimate fluxes of genome scale models of *E. coli* [(Edwards and Palsson, 2000)][Edwards2000]. The FBA problem recasts the estimation of intracellular fluxes as a Linear Programming (LP) problem.  Linear programming is a type of convex optimization problem in which a linear objective function is maximized (or minimized) subject to linear algebraic constraints.
